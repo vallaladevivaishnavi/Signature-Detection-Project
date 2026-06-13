@@ -1,7 +1,0 @@
-datasets/
-reference_images/reference_images.zip
-
-models/signature_snn_model.h5
-
-*.h5
-*.zip
